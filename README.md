@@ -12,13 +12,8 @@
 
 ## 用法
 
--  **方法一（无法自定义端口和密码验证）：** 双击运行编译版本（.exe）
-
--  **方法二：** 使用命令行
-
 ```shell
 用法: command_server.py [-h] [-port PORT] [-auth] [-username USERNAME] [-password PASSWORD]
-
 Command Server
 
 options:
