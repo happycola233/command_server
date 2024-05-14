@@ -14,7 +14,6 @@
 
 ```shell
 用法: command_server.py [-h] [-port PORT] [-auth] [-username USERNAME] [-password PASSWORD]
-Command Server
 
 options:
   -h, --help          show this help message and exit
